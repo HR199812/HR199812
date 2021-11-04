@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hritwik Agarwal  
-- 👀 I’m interested in JavaScript and technologies. I also teach guitar and code all day long👾👾
+- 👀 I’m interested in JavaScript and it's related technologies and libraries. I also teach guitar and code all day long👾👾
 - 🌱 I’m currently  working on MS Dynamics CE and Power Platform. Cleared PL-900, PL-200, MB-910, AZ-900
-- 💞️ I’m looking to collaborate on FSD in .net and JS technolgies along with cool CSS projects. 
+- 💞️ I’m looking to collaborate in FSD in .net+react and MERN stack along with cool projects. 
 - 📫 How to reach me mail: hritwik72@gmail.com, LinkedIn: hritwik agarwal
 
 <!---
