@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hritwik Agarwal  
-- 👀 I’m interested in JavaScript and it's related technologies and libraries. I also teach guitar and code all day long👾👾
+- 👀 I’m work on JavaScript and it's related technologies and libraries. Leetcode ID is: https://leetcode.com/hritwik72/👾👾
 - 🌱 I’m currently  working on MS Dynamics CE and Power Platform. Cleared PL-900, PL-200, MB-910, AZ-900
-- 💞️ I’m looking to collaborate in FSD in .net+react and MERN stack along with cool projects. 
+- 💞️ I’m looking to collaborate in MERN stack along with cool projects in three.js, anime.js, and pixi.js. 
 - 📫 How to reach me mail: hritwik72@gmail.com, LinkedIn: hritwik agarwal
 
 <!---
