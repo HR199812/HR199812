@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hritwik Agarwal  
 - 👀 I’m work on JavaScript and it's related technologies and libraries. Leetcode ID is: https://leetcode.com/hritwik72/👾👾
-- 🌱 I’m currently  working on MS Dynamics CE and Power Platform. Cleared PL-900, PL-200, MB-910, AZ-900
+- 🌱 I’m currently  working on MERN Stack and AWS Cloud.
 - 💞️ I’m looking to collaborate in MERN stack along with cool projects in three.js, anime.js, and pixi.js. 
 - 📫 How to reach me mail: hritwik72@gmail.com, LinkedIn: hritwik agarwal
 
