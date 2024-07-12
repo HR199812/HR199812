@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Hritwik Agarwal  
-- 👀 I’m work on JavaScript and it's related technologies and libraries. Leetcode ID is: https://leetcode.com/hritwik72/👾👾
-- 🌱 I’m currently  working on MERN Stack and AWS Cloud.
-- 💞️ I’m looking to collaborate in MERN stack along with cool projects in three.js, anime.js, and pixi.js. 
-- 📫 How to reach me mail: hritwik72@gmail.com, LinkedIn: hritwik agarwal
+- 👋 Hi, I’m Hritwik Agarwal
+- 👀 I work on JavaScript and its related technologies and libraries. Check out my LeetCode profile: LeetCode 👾👾
+- 🌱 Currently working on the MERN Stack, React Native, DevOps, and AWS Cloud services.
+- 💞️ Looking to collaborate on MERN stack projects and cool projects in three.js, anime.js, and pixi.js.
+- 📫 Reach me via email at hritwik72@gmail.com or connect on LinkedIn: Hritwik Agarwal
 
 <!---
 HR199812/HR199812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
