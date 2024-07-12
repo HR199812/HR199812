@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Hritwik Agarwal
-- 👀 I work on JavaScript and its related technologies and libraries.
-- 🌱 Currently working on the MERN Stack, React Native, DevOps, and AWS Cloud services.
-- 💞️ Looking to collaborate on MERN stack projects and cool projects in three.js, anime.js, and pixi.js.
+- 🌱 Currently working and looking to collaborate on the MERN Stack, React Native, DevOps, and AWS Cloud services.
 - 📫 Reach me via email at hritwik72@gmail.com or connect on LinkedIn: Hritwik Agarwal
 
 <!---
